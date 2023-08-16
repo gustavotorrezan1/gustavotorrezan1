@@ -10,6 +10,11 @@
 <div style="display: inline_block">
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt=".net" src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+ 
+  	
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
